@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.3 Safari/605.1.15" version="29.6.0">
   <diagram name="Page-1" id="bhzREaVx0CFoU5P88sb4">
-    <mxGraphModel dx="1010" dy="668" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2036" dy="1336" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -14,7 +14,7 @@
           <mxGeometry height="799" width="170" x="1275" y="131" as="geometry" />
         </mxCell>
         <mxCell id="GCF8rpcxqLgguWRwckdN-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;strokeColor=none;fontSize=20;fontStyle=1" value="Consume" vertex="1">
-          <mxGeometry height="30" width="98" x="1318" y="116" as="geometry" />
+          <mxGeometry height="30" width="98" x="1316" y="116" as="geometry" />
         </mxCell>
         <mxCell id="JMJR_aPySUjZgWYdvWMo-2" parent="1" style="shape=singleArrow;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=default;arrowWidth=0.36862745098038846;arrowSize=0.5151515151515147;" value="" vertex="1">
           <mxGeometry height="60" width="66" x="210" y="388" as="geometry" />
@@ -308,6 +308,24 @@
             <mxPoint x="1060.47" y="850" as="sourcePoint" />
             <mxPoint x="1013.47" y="900" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="8DWPzzdj4tTyRxQkgM3g-15" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/power_platform/PowerBI.svg;" value="" vertex="1">
+          <mxGeometry height="68" width="51" x="1331.25" y="264" as="geometry" />
+        </mxCell>
+        <mxCell id="8DWPzzdj4tTyRxQkgM3g-20" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=28;fontColor=#ffffff;fontFamily=Helvetica;" value="SQL&lt;div&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;Queries&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="100" x="1298.75" y="750" as="geometry" />
+        </mxCell>
+        <mxCell id="8DWPzzdj4tTyRxQkgM3g-22" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=18;fontColor=#333333;spacingTop=0;" value="Ad-Hoc" vertex="1">
+          <mxGeometry height="20" width="100" x="1310" y="567" as="geometry" />
+        </mxCell>
+        <mxCell id="8DWPzzdj4tTyRxQkgM3g-23" parent="1" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/sql_server.svg;" value="" vertex="1">
+          <mxGeometry height="66" width="50.82" x="1334.59" y="494" as="geometry" />
+        </mxCell>
+        <mxCell id="8DWPzzdj4tTyRxQkgM3g-24" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;fontColor=#333333;spacingTop=0;" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;SQL&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;Queries&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="20" width="100" x="1310" y="612" as="geometry" />
+        </mxCell>
+        <mxCell id="8DWPzzdj4tTyRxQkgM3g-25" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;fontColor=#333333;spacingTop=0;" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;Power BI&lt;/font&gt;" vertex="1">
+          <mxGeometry height="20" width="100" x="1313.41" y="358.55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
